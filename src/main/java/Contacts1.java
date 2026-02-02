@@ -151,6 +151,10 @@ public class Contacts1 {
      * ====================================================================
      */
 
+    /**
+     * Shows the welcome message to the user.
+     * This will be in a well formatted way.
+     */
     private static void showWelcomeMessage() {
         showToUser(DIVIDER, DIVIDER, VERSION, MESSAGE_WELCOME, DIVIDER);
     }
